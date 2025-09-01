@@ -19,10 +19,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Michelle Kraak
 
   #### Je startniveau:
-  Rood
+  Blauw
 
   #### Je focus:
-  Surface plane 
+  Surface plane is mijn focus, maar ik wil graag kijken of ik allebei kan doen.
  
 </details>
 
